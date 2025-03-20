@@ -28,7 +28,8 @@ Excel files `DNAConcMap.xlsx`,`DNAConcMap_RAW.xlsx`,`J23119UVMap.xlsx` ,`J23119U
 
 Change the path found in the Jupyter notebook to the path of xlsx files
 
-Running this notebook should generate output files SVG output files for each figure 
+Running this notebook should generate output heatmap SVG files contained in each manuscript figure and SI figure
+
 For `DLS.ipynb`
 
 Download the file `Particles_Compiled_DLS.csv` and change the path if necessary. Running this will result in a saved image files of nanoparticle DLS data, DLS_NPs.png
